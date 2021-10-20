@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="FTmHEgsEPKm2l" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<metadata>
+<schema>ADL SCORM</schema>
+<schemaversion>1.2</schemaversion>
+<lom:lom>
+<lom:general>
+<lom:title>
+<lom:langstring>Baigiang_sp1</lom:langstring>
+</lom:title>
+</lom:general>
+<lom:educational>
+<lom:typicallearningtime>
+<lom:datetime>01:00:00</lom:datetime>
+</lom:typicallearningtime>
+</lom:educational>
+</lom:lom>
+</metadata>
+<organizations default="baigiang_sp1_organization">
+<organization identifier="baigiang_sp1_organization">
+<title>Baigiang_sp1</title>
+<item identifier="65D4AD67-4D37-44D7-9E87-52E17756068C" identifierref="resource">
+<title>Baigiang_sp1</title>
+</item>
+</organization>
+</organizations>
+<resources>
+<resource identifier="resource" type="webcontent" adlcp:scormtype="sco" href="res/index.html">
+<file href="res/index.html"/>
+<file href="res/lms.js"/>
+<file href="res/data/thmb1.png"/>
+<file href="res/data/video1.mp4"/>
+<file href="res/data/slide1.js"/>
+<file href="res/data/slide1.css"/>
+<file href="res/data/thmb2.png"/>
+<file href="res/data/video2.mp4"/>
+<file href="res/data/slide2.js"/>
+<file href="res/data/slide2.css"/>
+<file href="res/data/thmb3.png"/>
+<file href="res/data/quiz1.js"/>
+<file href="res/data/quiz1/audios/snd-370d-29f2-9f24-a6ca.mp3"/>
+<file href="res/data/quiz1/audios/snd-6936-6410-408c-d23b.mp3"/>
+<file href="res/data/quiz1/audios/snd-bfb8-17a8-9d85-0f52.mp3"/>
+<file href="res/data/quiz1/audios/snd-ca76-3182-7453-ecf2.mp3"/>
+<file href="res/data/quiz1/audios/snd-cc6e-a716-ee37-ed6f.mp3"/>
+<file href="res/data/quiz1/audios/snd-cd91-b6d8-66e0-7bf7.mp3"/>
+<file href="res/data/quiz1/audios/snd-f2d3-f4d7-9c7a-8a60.mp3"/>
+<file href="res/data/quiz1/fonts/fnt0.woff"/>
+<file href="res/data/quiz1/fonts/fnt1.woff"/>
+<file href="res/data/quiz1/fonts/fnt2.woff"/>
+<file href="res/data/quiz1/fonts/fnt3.woff"/>
+<file href="res/data/quiz1/fonts/fnt4.woff"/>
+<file href="res/data/quiz1/fonts/fnt5.woff"/>
+<file href="res/data/quiz1/images/img-5307-c9f6-9963-8f3a.PNG"/>
+<file href="res/data/quiz1/images/img-5b22-fad4-1994-2766.png"/>
+<file href="res/data/quiz1/images/img-721f-7df7-ab46-21c8.png"/>
+<file href="res/data/quiz1/images/img-7326-4171-17ec-bba0.PNG"/>
+<file href="res/data/quiz1/images/img-748d-2a8a-92df-3442.jpg"/>
+<file href="res/data/quiz1/images/img-822e-5aee-3a24-f38e.png"/>
+<file href="res/data/quiz1/images/img-8cc9-3fe6-3a43-ab4e.PNG"/>
+<file href="res/data/quiz1/images/img-a877-a773-3c3e-04a5.PNG"/>
+<file href="res/data/quiz1/images/img-ac4f-dc2d-5c5f-d72b.PNG"/>
+<file href="res/data/quiz1/images/img-d15a-3838-349e-573f.jpg"/>
+<file href="res/data/quiz1/images/img-da45-ca73-69cd-e250.png"/>
+<file href="res/data/quiz1/images/img-eafe-5f55-1f7c-6085.png"/>
+<file href="res/data/quiz1/images/img-fcb4-3709-9ca9-0f4f.PNG"/>
+<file href="res/data/quiz1/images/quiz_bg_0.png"/>
+<file href="res/data/quiz1/videos/video-7283-e4a1-39d3-eafe.mp4"/>
+<file href="res/data/thmb4.png"/>
+<file href="res/data/video3.mp4"/>
+<file href="res/data/slide4.js"/>
+<file href="res/data/slide4.css"/>
+<file href="res/data/thmb5.png"/>
+<file href="res/data/video4.mp4"/>
+<file href="res/data/slide5.js"/>
+<file href="res/data/slide5.css"/>
+<file href="res/data/thmb6.png"/>
+<file href="res/data/video5.mp4"/>
+<file href="res/data/slide6.js"/>
+<file href="res/data/slide6.css"/>
+<file href="res/data/thmb7.png"/>
+<file href="res/data/quiz2.js"/>
+<file href="res/data/quiz2/audios/snd-01d6-1422-6ba4-c95d.mp3"/>
+<file href="res/data/quiz2/audios/snd-0348-03a3-dd8f-49e1.mp3"/>
+<file href="res/data/quiz2/audios/snd-2c4b-c43b-105e-08d0.mp3"/>
+<file href="res/data/quiz2/audios/snd-370d-29f2-9f24-a6ca.mp3"/>
+<file href="res/data/quiz2/audios/snd-5d7a-e065-5721-648e.mp3"/>
+<file href="res/data/quiz2/audios/snd-a0a8-51aa-a61c-a6c0.mp3"/>
+<file href="res/data/quiz2/audios/snd-bfb8-17a8-9d85-0f52.mp3"/>
+<file href="res/data/quiz2/audios/snd-ca76-3182-7453-ecf2.mp3"/>
+<file href="res/data/quiz2/fonts/fnt0.woff"/>
+<file href="res/data/quiz2/fonts/fnt1.woff"/>
+<file href="res/data/quiz2/fonts/fnt2.woff"/>
+<file href="res/data/quiz2/fonts/fnt3.woff"/>
+<file href="res/data/quiz2/fonts/fnt4.woff"/>
+<file href="res/data/quiz2/fonts/fnt5.woff"/>
+<file href="res/data/quiz2/images/img-1fc8-a282-2b29-e82b.PNG"/>
+<file href="res/data/quiz2/images/img-21aa-fea8-cfbb-a38f.PNG"/>
+<file href="res/data/quiz2/images/img-5514-023d-b925-4619.jpg"/>
+<file href="res/data/quiz2/images/img-5b22-fad4-1994-2766.png"/>
+<file href="res/data/quiz2/images/img-6188-5baf-4793-9db5.png"/>
+<file href="res/data/quiz2/images/img-721f-7df7-ab46-21c8.png"/>
+<file href="res/data/quiz2/images/img-7f34-0890-b239-2a3e.png"/>
+<file href="res/data/quiz2/images/img-848d-731f-a777-4e75.jpg"/>
+<file href="res/data/quiz2/images/img-9ccc-c59b-915a-136b.PNG"/>
+<file href="res/data/quiz2/images/img-da45-ca73-69cd-e250.png"/>
+<file href="res/data/quiz2/images/img-eafe-5f55-1f7c-6085.png"/>
+<file href="res/data/quiz2/images/img-ef4c-286f-9f0f-71b2.PNG"/>
+<file href="res/data/quiz2/images/quiz_bg_0.png"/>
+<file href="res/data/thmb8.png"/>
+<file href="res/data/video6.mp4"/>
+<file href="res/data/slide8.js"/>
+<file href="res/data/slide8.css"/>
+<file href="res/data/thmb9.png"/>
+<file href="res/data/quiz3.js"/>
+<file href="res/data/quiz3/audios/snd-370d-29f2-9f24-a6ca.mp3"/>
+<file href="res/data/quiz3/audios/snd-5987-e2ee-b67f-6aef.mp3"/>
+<file href="res/data/quiz3/audios/snd-bfb8-17a8-9d85-0f52.mp3"/>
+<file href="res/data/quiz3/audios/snd-ca76-3182-7453-ecf2.mp3"/>
+<file href="res/data/quiz3/fonts/fnt0.woff"/>
+<file href="res/data/quiz3/fonts/fnt1.woff"/>
+<file href="res/data/quiz3/images/img-14b1-e9e6-080f-5bfd.jpg"/>
+<file href="res/data/quiz3/images/img-2289-f73e-8fce-3ec3.jpg"/>
+<file href="res/data/quiz3/images/img-2b7a-4f90-af12-3f77.png"/>
+<file href="res/data/quiz3/images/img-3f00-7d09-be84-63a7.jpg"/>
+<file href="res/data/quiz3/images/img-564d-835d-82b3-9232.jpg"/>
+<file href="res/data/quiz3/images/img-5b22-fad4-1994-2766.png"/>
+<file href="res/data/quiz3/images/img-5c09-1150-1e88-d8c2.png"/>
+<file href="res/data/quiz3/images/img-5e14-8553-f6ca-42b0.png"/>
+<file href="res/data/quiz3/images/img-721f-7df7-ab46-21c8.png"/>
+<file href="res/data/quiz3/images/img-78e9-6a97-0155-ad8e.jpg"/>
+<file href="res/data/quiz3/images/img-ad18-cdb1-8d2e-42b8.png"/>
+<file href="res/data/quiz3/images/img-bf8c-7ce5-2d32-69c6.png"/>
+<file href="res/data/quiz3/images/img-da45-ca73-69cd-e250.png"/>
+<file href="res/data/quiz3/images/img-eafe-5f55-1f7c-6085.png"/>
+<file href="res/data/quiz3/images/quiz_bg_0.png"/>
+<file href="res/data/thmb10.png"/>
+<file href="res/data/video7.mp4"/>
+<file href="res/data/slide10.js"/>
+<file href="res/data/slide10.css"/>
+<file href="res/data/thmb11.png"/>
+<file href="res/data/video8.mp4"/>
+<file href="res/data/slide11.js"/>
+<file href="res/data/slide11.css"/>
+<file href="res/data/thmb12.png"/>
+<file href="res/data/video9.mp4"/>
+<file href="res/data/slide12.js"/>
+<file href="res/data/slide12.css"/>
+<file href="res/data/thmb13.png"/>
+<file href="res/data/video10.mp4"/>
+<file href="res/data/slide13.js"/>
+<file href="res/data/slide13.css"/>
+<file href="res/data/thmb14.png"/>
+<file href="res/data/video11.mp4"/>
+<file href="res/data/slide14.js"/>
+<file href="res/data/slide14.css"/>
+<file href="res/data/thmb15.png"/>
+<file href="res/data/video12.mp4"/>
+<file href="res/data/slide15.js"/>
+<file href="res/data/slide15.css"/>
+<file href="res/data/quizplayer.js"/>
+<file href="res/index.html"/>
+<file href="res/data/player.js"/>
+<file href="res/data/eraser.cur"/>
+<file href="res/data/highlighter.cur"/>
+<file href="res/data/marker.cur"/>
+<file href="res/data/lock.cur"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fnt0.woff"/>
+<file href="res/data/fnt1.woff"/>
+<file href="res/data/fnt2.woff"/>
+<file href="res/data/fnt3.woff"/>
+<file href="res/data/fnt4.woff"/>
+<file href="res/data/fnt5.woff"/>
+<file href="res/data/fnt6.woff"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/html5.png"/>
+<file href="res/data/img0.jpg"/>
+<file href="res/data/img1.png"/>
+<file href="res/data/img10.png"/>
+<file href="res/data/img11.jpg"/>
+<file href="res/data/img12.png"/>
+<file href="res/data/img13.jpg"/>
+<file href="res/data/img14.jpg"/>
+<file href="res/data/img15.jpg"/>
+<file href="res/data/img16.jpg"/>
+<file href="res/data/img17.jpg"/>
+<file href="res/data/img18.jpg"/>
+<file href="res/data/img2.jpg"/>
+<file href="res/data/img3.png"/>
+<file href="res/data/img4.png"/>
+<file href="res/data/img5.png"/>
+<file href="res/data/img6.png"/>
+<file href="res/data/img7.jpg"/>
+<file href="res/data/img8.jpg"/>
+<file href="res/data/img9.jpg"/>
+<file href="res/data/photo1.png"/>
+<file href="res/data/ismplayer/preview.png"/>
+<file href="res/data/ismplayer/play.svg"/>
+<file href="res/data/ismplayer/style.css"/>
+<file href="res/data/ismplayer/style_mini.css"/>
+<file href="res/ismplayer.html"/>
+<file href="res/data/ismplayer/app_store2x.png"/>
+<file href="res/metainfo.xml"/>
+</resource>
+</resources>
+</manifest>
